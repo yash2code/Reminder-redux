@@ -2,7 +2,7 @@
   "name": "rem",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://yash2code.github.io/redux-reminder",
+  "homepage": "http://yash2code.github.io/Reminder-redux",
   "devDependencies": {
     "gh-pages": "^1.0.0",
     "react-scripts": "1.0.7"
